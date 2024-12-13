@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: The performance for various sorted inputs is similar but the performance for reversed and random inputs takes a hit with increasing size.
+
+sort2 uses: merge sort
+
+How do you know?: Near logarithmic scaling of performance.
+
+sort3 uses: selection sort
+
+How do you know?: Linear scaling of performance across input size.
